@@ -28,5 +28,3 @@ When debugging HubSpot workflow or sync issues for ACC:
    - Missing or expired API tokens
    - Unexpected null values from API responses
    - Timeout errors (coded actions have a 20-second limit)
-
-5. **Check CData Connect** if the issue involves QuickBooks data. Verify the connection is active and the query returns expected results.
