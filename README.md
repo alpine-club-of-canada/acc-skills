@@ -2,7 +2,7 @@
 
 Shared Claude Code skills for the Alpine Club of Canada (ACC) technology team.
 
-These skills provide team-wide conventions, debugging guides, and scaffolding tools for working with ACC's technology stack (HubSpot, Mews, QuickBooks Online, IronClaw, etc.).
+These skills provide team-wide conventions, debugging guides, and scaffolding tools for working with ACC's technology stack (HubSpot, Mews, QuickBooks Online, etc.).
 
 ## Install
 
