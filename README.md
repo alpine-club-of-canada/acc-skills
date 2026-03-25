@@ -26,7 +26,9 @@ If you already have this repo cloned locally, symlink it instead:
 ln -s /path/to/your/acc-skills ~/.claude/skills/acc-skills
 ```
 
-This way your local dev copy is the skills source — no need to clone twice.
+This way edits in your working copy are picked up immediately without needing to pull.
+
+> **Clone vs symlink:** A separate clone gives you a clear changelog when you run `/update-acc-skills`. A symlink picks up changes instantly but skips that "what's new" moment. For a small team the symlink is simpler — switch to a separate clone later if you want more visibility into updates.
 
 ## Update
 
