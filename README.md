@@ -18,6 +18,16 @@ git clone https://github.com/alpine-club-of-canada/acc-skills.git ~/.claude/skil
 
 Once installed, Claude Code will automatically pick up the skills in this repo.
 
+### For contributors
+
+If you already have this repo cloned locally, symlink it instead:
+
+```bash
+ln -s /path/to/your/acc-skills ~/.claude/skills/acc-skills
+```
+
+This way your local dev copy is the skills source — no need to clone twice.
+
 ## Update
 
 Pull the latest skills:
