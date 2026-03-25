@@ -6,10 +6,14 @@ These skills provide team-wide conventions, debugging guides, and scaffolding to
 
 ## Install
 
-Clone this repo into your Claude Code skills directory:
+Paste this into Claude Code:
+
+> Install acc-skills: run `git clone https://github.com/alpine-club-of-canada/acc-skills.git ~/.claude/skills/acc-skills`
+
+Or run it directly in your terminal:
 
 ```bash
-git clone <repo-url> ~/.claude/skills/acc-skills
+git clone https://github.com/alpine-club-of-canada/acc-skills.git ~/.claude/skills/acc-skills
 ```
 
 Once installed, Claude Code will automatically pick up the skills in this repo.
